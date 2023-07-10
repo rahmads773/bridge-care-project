@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg18"
+   width="32.396484"
+   height="32.488586"
+   viewBox="0 0 32.396484 32.488586"
+   sodipodi:docname="Bridge care.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1822">
+      <path
+         d="M 0,1080 H 1920 V 0 H 0 Z"
+         id="path1820" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g1810"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 4"
+     transform="matrix(1.3333333,0,0,-1.3333333,-2084.2246,872.19373)">
+    <g
+       id="g1816">
+      <g
+         id="g1818"
+         clip-path="url(#clipPath1822)">
+        <g
+           id="g3240"
+           transform="translate(1585.75,650.9463)">
+          <path
+             d="m 0,0 -3.199,3.199 -5.693,-5.694 3.258,-3.257 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3242" />
+        </g>
+        <g
+           id="g3244"
+           transform="translate(1571.7373,637.2852)">
+          <path
+             d="m 0,0 -2.947,2.949 -5.622,-5.624 2.961,-3.103 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3246" />
+        </g>
+        <g
+           id="g3248"
+           transform="translate(1580.8477,644.0742)">
+          <path
+             d="M 0,0 C 0.573,-1.252 0.898,-3.451 -1.705,-6.054 -4.545,-8.895 -6.904,-8.25 -8.075,-7.6 l -5.45,-5.614 c 2.507,-1.034 9.188,-2.887 15.33,3.356 6.592,6.7 4.854,13.028 3.749,15.528 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3250" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

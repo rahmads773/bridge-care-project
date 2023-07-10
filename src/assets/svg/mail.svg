@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg18"
+   width="34.148438"
+   height="21.788391"
+   viewBox="0 0 34.148438 21.788391"
+   sodipodi:docname="Bridge care.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1822">
+      <path
+         d="M 0,1080 H 1920 V 0 H 0 Z"
+         id="path1820" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g1810"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 4"
+     transform="matrix(1.3333333,0,0,-1.3333333,-2080.5723,744.55719)">
+    <g
+       id="g1816">
+      <g
+         id="g1818"
+         clip-path="url(#clipPath1822)">
+        <g
+           id="g3264"
+           transform="translate(1573.2354,550.2109)">
+          <path
+             d="M 0,0 -12.806,8.207 H 12.805 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3266" />
+        </g>
+        <g
+           id="g3268"
+           transform="translate(1573.2354,548.0186)">
+          <path
+             d="M 0,0 12.805,8.206 V -5.942 H -12.806 V 8.206 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3270" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

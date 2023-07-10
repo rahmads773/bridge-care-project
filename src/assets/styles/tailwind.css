@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.bg-gradient-blue {
+    background-image: linear-gradient(to right, #4AA9D3, #016D9C);
+}
+
+.bg-gradient-blue-vertical {
+    background-image: linear-gradient(to bottom, #016D9C, #4AA9D3);
+}
+
+.bg-gradient-white {
+    background-image: linear-gradient(to bottom, #f5f5f5, #fff); 
+}
+
+.bg-carousel {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    transition: .6s;
+}
+
+
+.bg-carousel0{
+    background-image: url('../images/carousel-background.jpg');
+}
+.bg-carousel1{
+    background-image: url('../images/featured-1.png');
+}
+.bg-carousel2{
+    background-image: url('../images/featured-2.jpg');
+}
+.bg-carousel3{
+    background-image: url('../images/featured-3.jpg');
+}
+.secondary-color{
+    color: #3cc680;
+}

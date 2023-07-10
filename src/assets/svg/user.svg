@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg18"
+   width="33.810547"
+   height="35.220001"
+   viewBox="0 0 33.810547 35.220001"
+   sodipodi:docname="Bridge care.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22">
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(25.35849,0,0,-25.35849,1770.1132,956.98145)"
+       spreadMethod="pad"
+       id="linearGradient580">
+      <stop
+         style="stop-opacity:1;stop-color:#cfe95e"
+         offset="0"
+         id="stop576" />
+      <stop
+         style="stop-opacity:1;stop-color:#7dbb3e"
+         offset="1"
+         id="stop578" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g26"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-2360.1506,1293.5853)">
+    <g
+       id="g564">
+      <g
+         id="g566">
+        <g
+           id="g572">
+          <g
+             id="g574">
+            <path
+               d="m 1774.868,962.265 c 0,-2.756 1.414,-5.184 3.554,-6.604 v 0 c -4.841,-1.787 -8.309,-6.434 -8.309,-11.887 v 0 h 2.114 c 0,5.826 4.738,10.566 10.565,10.566 v 0 c 5.828,0 10.566,-4.74 10.566,-10.566 v 0 h 2.113 c 0,5.453 -3.467,10.1 -8.308,11.887 v 0 c 2.14,1.42 3.553,3.848 3.553,6.604 v 0 c 0,4.369 -3.554,7.924 -7.924,7.924 v 0 c -4.37,0 -7.924,-3.555 -7.924,-7.924 m 2.114,0 c 0,3.204 2.606,5.811 5.81,5.811 v 0 c 3.205,0 5.811,-2.607 5.811,-5.811 v 0 c 0,-3.205 -2.606,-5.812 -5.811,-5.812 v 0 c -3.204,0 -5.81,2.607 -5.81,5.812"
+               style="fill:url(#linearGradient580);stroke:none"
+               id="path582" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
