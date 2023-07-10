@@ -10,16 +10,16 @@
                 <hr class="mt-3">
             </div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo tenetur dignissimos cum sequi rerum, architecto in ipsam laboriosam totam quam nesciunt harum eligendi dolorem minus quae quidem quod? Consequatur.</p>
-            <div class="flex gap-6  p-6">
-                <div class="relative w-1/6">
+            <div class="flex gap-6 sm:p-6 flex-col sm:flex-row">
+                <div class="relative sm:w-1/6">
                     <img class=" rounded-md drop-shadow-sm" src="../../assets//images/defaults/pdf-thumbnai.jpg" alt="pdf-thumnbail">
                     <a href="https://drive.google.com/file/d/125SW5mZwkL5LQI8Mk-CVz-XcDOKYXkZc/view" class="block absolute top-0 left-0 w-full h-full" target="_blank"></a>
                 </div>
-                <div class="relative w-1/6">
+                <div class="relative sm:w-1/6">
                     <img class=" rounded-md drop-shadow-sm" src="../../assets//images/defaults/pdf-thumbnai.jpg" alt="pdf-thumnbail">
                     <a href="https://drive.google.com/file/d/125SW5mZwkL5LQI8Mk-CVz-XcDOKYXkZc/view" class="block absolute top-0 left-0 w-full h-full" target="_blank"></a>
                 </div>
-                <div class="relative w-1/6">
+                <div class="relative sm:w-1/6">
                     <img class=" rounded-md drop-shadow-sm" src="../../assets//images/defaults/pdf-thumbnai.jpg" alt="pdf-thumnbail">
                     <a href="https://drive.google.com/file/d/125SW5mZwkL5LQI8Mk-CVz-XcDOKYXkZc/view" class="block absolute top-0 left-0 w-full h-full" target="_blank"></a>
                 </div>
