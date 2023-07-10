@@ -12,7 +12,7 @@
             <div class="flex gap-6  p-6">
                 <div class="relative sm:w-1/6">
                     <img class=" rounded-md drop-shadow-sm" src="../../assets//images/defaults/ordonnance_model.png" alt="pdf-thumnbail">
-                    <a href="ordonnance_model.pdf" class="block absolute top-0 left-0 w-full h-full" target="_blank"></a>
+                    <a href="https://drive.google.com/file/d/1NW_4JqFsZYNNYycyytaCKxbsfyGvfuly/view" class="block absolute top-0 left-0 w-full h-full" target="_blank"></a>
                 </div>
              
                 
@@ -86,7 +86,3 @@
         
     </div>
 </template>
-
-<style scoped>
-
-</style>
