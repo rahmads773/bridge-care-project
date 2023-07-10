@@ -58,25 +58,30 @@ const routes = [
             {
                 path: 'medicals-files',
                 name: 'MedicalFiles',
-                component: MedicalFilesView
+                component: MedicalFilesView,
+               
             },
             {
                 path: 'Dossier-Medicale',
                 name: 'DossierMedicale',
                 component: PatientFileView,
                 meta: {
-                id:"patient"
-                }
+                    id:"patient"
+                    }
             }
             ,{
                 path: 'profile',
                 name: 'profileMed',
                 component: ProfileMed
+              
             },
             {
                 path:'Therapie-Actuelle',
                 name:'TherapieActuelle1',
-                component: TherapieActuelle
+                component: TherapieActuelle,
+                meta: {
+                    id:"patient"
+                    }
             },
             {
                 path:'NotificationMed',
@@ -86,12 +91,18 @@ const routes = [
             {
                 path:'OrdonnanceP',
                 name:'OrdonnanceP2',
-                component: OrdonnanceP
+                component: OrdonnanceP,
+                meta: {
+                    id:"patient"
+                    }
             },
             {
                 path:'Carte-Sanitaire',
                 name:'CarteSanitaire2',
-                component: CarteSanitaire
+                component: CarteSanitaire,
+                meta: {
+                    id:"patient"
+                    }
             }
         ]
     },
@@ -125,12 +136,18 @@ const routes = [
             {
                 path:'Therapie-Actuelle',
                 name:'TherapieActuelle2',
-                component: TherapieActuelle
+                component: TherapieActuelle,
+                meta: {
+                    id:"patient"
+                    }
             },
             {
                 path:'OrdonnanceP',
                 name:'OrdonnanceP3',
-                component: OrdonnanceP
+                component: OrdonnanceP,
+                meta: {
+                    id:"patient"
+                    }
             },
             {
                 path:'NotificationPh',
@@ -140,7 +157,10 @@ const routes = [
             {
                 path:'Carte-Sanitaire',
                 name:'CarteSanitaire3',
-                component: CarteSanitaire
+                component: CarteSanitaire,
+                meta: {
+                    id:"patient"
+                    }
             }
         ]
     },
