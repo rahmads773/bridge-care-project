@@ -7,8 +7,11 @@ import { useRoute } from 'vue-router';
 let navLinks = [];
 
 function state(){
-    
- if  (!useRoute().meta.isPatient) 
+
+if  (!useRoute().meta.isPatient && !useRoute().meta.id) 
+navLinks = ['Profile', 'Dossier-Medicale'];
+
+else if  (!useRoute().meta.isPatient && useRoute().meta.id) 
 navLinks = ['Profile', 'Dossier-Medicale', 'Therapie-Actuelle', 'Carte-Sanitaire'];
 
 else 
@@ -22,6 +25,7 @@ console.log(navLinks)
 </script>
 
 
+
 <template>
     <div :class="!useRoute().meta.isPatient ? 'bg-gray-200' : 'bg-white' ">
         <div class="flex w-2/3 ml-auto py-4 nav-container"  >
@@ -32,6 +36,11 @@ console.log(navLinks)
         </div>
     </div>
 </template>
+
+
+
+
+
 
 <style scoped>
 .nav-container{
