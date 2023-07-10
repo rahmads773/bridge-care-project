@@ -8,10 +8,7 @@ let navLinks = [];
 
 function state(){
 
-if  (!useRoute().meta.isPatient && !useRoute().meta.id) 
-navLinks = ['Profile', 'Dossier-Medicale'];
-
-else if  (!useRoute().meta.isPatient && useRoute().meta.id) 
+ if  (!useRoute().meta.isPatient) 
 navLinks = ['Profile', 'Dossier-Medicale', 'Therapie-Actuelle', 'Carte-Sanitaire'];
 
 else 
